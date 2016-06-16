@@ -1,12 +1,8 @@
 ![CASA Logo](/logo.png)
 
----
-
-# CASA Graduate Council Meeting Agenda
+# Graduate Council Meeting Agenda
 Date
 Location
-
----
 
 ## Items
 
