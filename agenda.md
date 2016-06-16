@@ -1,7 +1,9 @@
 ![CASA Logo](/logo.png)
 
 # Graduate Council Meeting Agenda
+
 Date
+
 Location
 
 ## Items
