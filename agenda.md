@@ -2,8 +2,7 @@
 
 # Graduate Council Meeting Agenda
 
-Date
-
+Date  
 Location
 
 ## Items
